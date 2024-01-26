@@ -1,4 +1,5 @@
 # my-first-git-repository
 this is my first git repository.
 <br>
-Author-Ayush Tripathi
+Author-Ayush Tripathi(Ram)
+Jai Shree Ram
